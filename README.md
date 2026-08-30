@@ -1,4 +1,4 @@
-# HadiOpens
+#ManageFiles
 ﻿Le programme permet d'opérer rapidement le renommage des fichiers de tout type.
 - Soit vous renommer les fichiers en numérique
 - Soit vous modifier le nom alphanumérique déjà existant
